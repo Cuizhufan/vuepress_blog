@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC"，
+  "devDependencies": {
+    "vuepress": "^1.1.0"
+  }
 }
