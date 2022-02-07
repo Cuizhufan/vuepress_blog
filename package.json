@@ -9,7 +9,7 @@
 
   "keywords": [],
   "author": "",
-  "license": "ISC"，
+  "license": "ISC",
   "devDependencies": {
     "vuepress": "^1.1.0"
   }

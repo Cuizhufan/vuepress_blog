@@ -71,3 +71,8 @@ nohup vuepress dev docs&
 
 ```
 
+# HTTPS配置
+
+1阿里云申请免费证书，下载ssl证书.pem   密码.key文件拷贝至服务器
+
+2nginx配置https
